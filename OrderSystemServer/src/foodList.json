@@ -1,0 +1,242 @@
+[
+  {
+    "id": 1,
+    "name": "ChessePizza",
+    "url": "",
+    "price": 300,
+    "category": "veg",
+    "type": "pizza"
+  },
+  {
+    "id": 2,
+    "name": "MushroomPizza",
+    "url": "",
+    "price": 300,
+    "category": "veg",
+    "type": "pizza"
+  },
+  {
+    "id": 3,
+    "name": "MixedPizza",
+    "url": "",
+    "price": 370,
+    "category": "favourite",
+    "type": "pizza"
+  },
+  {
+    "id": 4,
+    "name": "ChickenPizza",
+    "url": "",
+    "price": 300,
+    "category": "favourite",
+    "type": "pizza"
+  },
+  {
+    "id": 5,
+    "name": "AmericanChopsey",
+    "url": "",
+    "price": 320,
+    "category": "nonveg",
+    "type": "chopsey"
+  },
+  {
+    "id": 6,
+    "name": "MixedChopsey",
+    "url": "",
+    "price": 320,
+    "category": "nonveg",
+    "type": "chopsey"
+  },
+  {
+    "id": 7,
+    "name": "BuffChopsey",
+    "url": "",
+    "price": 280,
+    "category": "nonveg",
+    "type": "chopsey"
+  },
+  {
+    "id": 8,
+    "name": "ChineseChopsey",
+    "url": "",
+    "price": 320,
+    "category": "favourite",
+    "type": "chopsey"
+  },
+  {
+    "id": 9,
+    "name": "BuffMomo",
+    "url": "",
+    "price": 130,
+    "category": "nonveg",
+    "type": "momo"
+  },
+  {
+    "id": 10,
+    "name": "ChickenMomo",
+    "url": "",
+    "price": 170,
+    "category": "nonveg",
+    "type": "momo"
+  },
+  {
+    "id": 11,
+    "name": "vegpizza",
+    "url": "",
+    "price": 250,
+    "category": "nonveg",
+    "type": "pizza"
+  },
+  {
+    "id": 12,
+    "name": "BuffCMomo",
+    "url": "",
+    "price": 180,
+    "category": "nonveg",
+    "type": "momo"
+  },
+  {
+    "id": 13,
+    "name": "ChickenCMomo",
+    "url": "",
+    "price": 180,
+    "category": "nonveg",
+    "type": "momo"
+  },
+  {
+    "id": 14,
+    "name": "vegCMomo",
+    "url": "",
+    "price": 190,
+    "category": "veg",
+    "type": "momo"
+  },
+  {
+    "id": 15,
+    "name": "VegChillyMomo",
+    "url": "",
+    "price": 160,
+    "category": "veg",
+    "type": "momo"
+  },
+  {
+    "id": 16,
+    "name": "Buffchillymomo",
+    "url": "",
+    "price": 180,
+    "category": "nonveg",
+    "type": "momo"
+  },
+  {
+    "id": 17,
+    "name": "Chickenchillymomo",
+    "url": "",
+    "price": 200,
+    "category": "nonveg",
+    "type": "momo"
+  },
+  {
+    "id": 18,
+    "name": "BuffSamebaji",
+    "url": "",
+    "price": 270,
+    "category": "nonveg",
+    "type": "samebaji"
+  },
+  {
+    "id": 19,
+    "name": "VegSamebaji",
+    "url": "",
+    "price": 250,
+    "category": "veg",
+    "type": "samebaji"
+  },
+  {
+    "id": 20,
+    "name": "Drumstick",
+    "url": "",
+    "price": 270,
+    "category": "nonveg",
+    "type": "drumstick"
+  },
+  {
+    "id": 21,
+    "name": "BuffaloWings",
+    "url": "",
+    "price": 300,
+    "category": "nonveg",
+    "type": "buffalowings"
+  },
+  {
+    "id": 22,
+    "name": "BuffChilly",
+    "url": "",
+    "price": 250,
+    "category": "nonveg",
+    "type": "snacks"
+  },
+  {
+    "id": 23,
+    "name": "ChickenChilly",
+    "url": "",
+    "price": 250,
+    "category": "nonveg",
+    "type": "snacks"
+  },
+  {
+    "id": 24,
+    "name": "BuffSukutiSadeko",
+    "url": "",
+    "price": 270,
+    "category": "nonveg",
+    "type": "snacks"
+  },
+  {
+    "id": 25,
+    "name": "BuffBoil",
+    "url": "",
+    "price": 250,
+    "category": "nonveg",
+    "type": "buff"
+  },
+  {
+    "id": 26,
+    "name": "ChickenRoast",
+    "url": "",
+    "price": 270,
+    "category": "nonveg",
+    "type": "roast"
+  },
+  {
+    "id": 27,
+    "name": "ChessePizza",
+    "url": "",
+    "price": 300,
+    "category": "veg",
+    "type": "pizza"
+  },
+  {
+    "id": 28,
+    "name": "MushroomPizza",
+    "url": "",
+    "price": 300,
+    "category": "veg",
+    "type": "pizza"
+  },
+  {
+    "id": 29,
+    "name": "MushroomPizza",
+    "url": "",
+    "price": 300,
+    "category": "veg",
+    "type": "pizza"
+  },
+  {
+    "id": 30,
+    "name": "MushroomPizza",
+    "url": "",
+    "price": 300,
+    "category": "veg",
+    "type": "pizza"
+  }
+]

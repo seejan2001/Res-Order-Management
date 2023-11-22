@@ -1,0 +1,30 @@
+.res-kitchen-container{
+    align-items: center;
+}
+.res-kitchen-mid-container{
+    display: flex;
+    height:95vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.res-kitchen-head-order{
+    margin-right: 115px;
+    border: 1px solid black;
+    height:50px;
+    width:100px;
+}
+.res-kitchen-head-quantity{
+    margin: "15px";
+    border: 1px solid black;
+}
+table{
+    border:1px solid black;
+    border-collapse: collapse;
+    width:35%;
+}
+.res-kitchen-head-section{
+    width:50px;
+    height:30px;
+}
+

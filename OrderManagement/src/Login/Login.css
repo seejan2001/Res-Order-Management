@@ -1,0 +1,23 @@
+.res-login-container{
+    align-items: center;
+}
+.res-login-mid-container{
+    display: flex;
+    height:95vh;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+.res-div-form{
+    border:1px solid black;
+    border-radius: 10px;
+    height:150px;
+    width:180px;
+    padding:40px;
+    box-shadow: 10px 1px 10px lightblue;
+}
+.res-input{
+    border-radius: 5px;
+    border-color: black;
+    height: 20px;
+}
