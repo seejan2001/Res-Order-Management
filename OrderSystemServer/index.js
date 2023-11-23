@@ -20,12 +20,8 @@ const URI = "mongodb://127.0.0.1:27017/restro";
 
 //Post Method to insert into db
 app.post("/foodList1", async (req, res) => {
-  console.log("hello");
   const data1 = req.body;
   const client = new MongoClient(URI);
-  client.connect().then(() => {
-    console.log("Successfully Connected MongoClient");
-  });
   const database = client.db("restro");
   const collection = database.collection("restros");
   collection.insertMany(data1);
@@ -58,9 +54,16 @@ app.post("/deleteFromDB", async (req, res) => {
   const client = new MongoClient(URI);
   const database = client.db("restro");
   const collection = database.collection("restros");
-  collection.findOneAndDelete({ id: data1.id }, function (err, docs) {
-    console.log(docs);
-  });
+  if (data1.quantity > 1) {
+    collection.updateOne(
+      { id: data1.id },
+      { $set: { quantity: data1.quantity - 1 } }
+    );
+  } else {
+    collection.findOneAndDelete({ id: data1.id }, function (err, docs) {
+      console.log(docs);
+    });
+  }
 });
 
 //Post method for Validating User

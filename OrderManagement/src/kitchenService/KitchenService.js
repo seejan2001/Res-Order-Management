@@ -24,17 +24,16 @@ const KitchenService = () => {
     <div className="res-kitchen-container">
       <div className="res-kitchen-mid-container">
         {
-          <tr>
-            <th>
-              <span className="res-kitchen-head-section">Kitchen</span>
-            </th>
-            <th>
-              <span className="res-kitchen-head-order">ORDER</span>
-            </th>
-            <th>
-              <span className="res-kitchen-head-quantity">QUANTITY</span>
-            </th>
-          </tr>
+          <table>
+            <tr>
+              <th>
+                <span className="res-kitchen-head-order">ORDER</span>
+              </th>
+              <th>
+                <span className="res-kitchen-head-quantity">QUANTITY</span>
+              </th>
+            </tr>
+          </table>
         }
         {display.map((item) => {
           return (
